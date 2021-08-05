@@ -42,5 +42,5 @@
 
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=salik-a&show_icons=true&theme=radical&locale=en&layout=compact" alt="cengizcmataraci" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=salik-a&show_icons=true&theme=dark&locale=en" alt="cengizcmataraci" width="50%" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=salik-a&show_icons=true&theme=radical&locale=en&layout=compact" alt="salika" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=salik-a&show_icons=true&theme=dark&locale=en" alt="salika" width="50%" /></p>
