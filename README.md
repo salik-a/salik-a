@@ -9,7 +9,7 @@
 
 - 📝 My personal page 
 
-- 💬 Ask me about **Javascript, HTML-CSS and React.**
+- 💬 Ask me about **Javascript, HTML-CSS, React and React-Native.**
 
 - 📫 How to reach me **salikalper@gmail.com**
 
