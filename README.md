@@ -3,13 +3,13 @@
 
 
 
-- 🌱 I’m currently learning **React.js, React Native, Javascript etc.**
+- 🌱 I’m currently learning **React.js, React Native, Javascript, TypeScript etc.**
 
 
 
 - 📝 My personal page 
 
-- 💬 Ask me about **Javascript, HTML-CSS, React and React-Native.**
+- 💬 Ask me about **Javascript, TypeScript, HTML-CSS, React and React-Native.**
 
 - 📫 How to reach me **salikalper@gmail.com**
 
