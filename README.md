@@ -3,7 +3,7 @@
 
 
 
-- 🌱 I’m currently learning **React.js, React Native, Javascript, TypeScript etc.**
+- 🌱 I’m currently learning **React.js, React Native, Javascript, TypeScript, GraphQL etc.**
 
 
 
